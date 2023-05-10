@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">I'm 20 years old, Minecraft content development, learning web design. I'm a self-taught programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ialdrich23xx&label=Profile%20views&color=0e75b6&style=flat" alt="ialdrich23xx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AldrichGlyzck&label=Profile%20views&color=0e75b6&style=flat" alt="AldrichGlyzck" /> </p>
 
 - Owner of [CloverCube](https://github.com/CloverCube)
 
